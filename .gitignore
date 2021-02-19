@@ -31,4 +31,5 @@
 /config/master.key
 
 # Ignore public uploads
-public/uploadsconfig/application.yml
+public/uploads
+config/application.yml

@@ -1,7 +1,0 @@
-DATABASE_URL: postgres://root:g0sfeE2B23Ew1f@pipeline.cgbnpleww4bm.us-east-2.rds.amazonaws.com/pipeline_pbp
-SECRET_KEY_BASE: 17bc9653a1f9b1452d5586c1da03934e4446415c7571e27d93ee0a4156fa70d36bc10d61d73bba2765b89e1a638246853c9ea873dfeca4aae62d44dedb7073b4
-
-SMTP_ADDRESS: email-smtp.us-east-2.amazonaws.com
-SMTP_DOMAIN: pipelinetopower.com
-SMTP_PASSWORD: BJ648XwQIME1l0v2QnZcuYF+f5b4Hr/WfXIGkJ87DUmd
-SMTP_USERNAME: AKIAZP3Q66MNIVB65OXW
